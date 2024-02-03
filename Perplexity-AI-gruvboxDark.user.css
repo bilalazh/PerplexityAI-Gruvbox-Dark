@@ -158,11 +158,11 @@ color:#fb4934 !important ;
 /*Does not show on the front page   */
 	button.bg-super{
 		color: #d5c4a1  ; 
-		background: #427b58 !important ; 
+		background: #fbf1c7 !important ; 
 	}
 
 
-	
+
 	
 	
 	
@@ -171,12 +171,26 @@ color:#fb4934 !important ;
 	
 	
 /*Ful background -> mapped to black  	 */
-	div.h-full{
+/* 	div.h-full{
 		
 		Background-color:#17191b !important ; 
+	} */
+	
+/*Backgound 	 */
+	div.h-full{
+		background-color:#16181a !important ; 
 	}
 	
+/*Black bacakgorund  	 */
+	div.w-full.h-full{
+		background-color : #16181a !important ; 
+	}
 	
+	/*Parts of the bg code  	 */
+	div.flex.items-center{
+  background-color: #16181a !important;
+}
+
 	
 /*SIDE BAR STYLES 	 */
 	
@@ -185,8 +199,19 @@ color:#fb4934 !important ;
 	div.border{
 		color:#fbf1c7 !important ; 
 		background-color: #1d2021 !important ; 
+		border: solid  #79740e  !important ; 
+		border-width: 0.11rem !important ; 
 	}
 
+/*BORDER hover */
+	div.border:hover{
+		
+		border: solid  #fb4934  !important; 
+		border-width: 0.11rem !important ; 
+	}
+	
+	
+	
 	
 /*Older chats side bear  	 */
 	.line-clamp-1, .line-clamp-2 {
@@ -228,6 +253,7 @@ textarea {
 /*Color is teh text color that appear inside  	 */
 	color: #f2e5bc !important ; 
     background-color: #1d2021 !important ;
+	
 }
 	
 /*ASK anything place holder inside the input field 	 */
@@ -253,18 +279,24 @@ textarea {
     color: #79740e;
 }
 	
+
+/*Seaarch suggestion when you type  	 */
+	div.grow.px-sm.py-sm{
+		color : white !important ; 
+		background-color : #16181a !important ; 
 	
+	}
+	
+/*Color of the suggestions  	 */
+
+.text-textMain {
+   color : #b8bb26 !important ;
+}
 	
 
 	
 	
-	
-	
-	
-	
-	
-	
-	
+
 	
 	
 	
@@ -278,22 +310,11 @@ textarea {
 /*ALL SVG colors 	 */
 	
 	svg{
-		fill : #689d6a !important ; 
+		
 		color: #fb4934 !important ; 
 	}
 	
-/*Send Button color  	 */
-	.bg-idle {
-  background-color: #fbf1c7 !important;/* Red background */
-opacity: 1 !important; 
-}
-	
-/*Hover  for Send button  	 */
-		.bg-idle:hover{
-  background-color: #b8bb26; /* Red background */
-  color: #fff; /* White text */
-}
-	
+
 	
 	
 /*Ssuggestions TAB pills  	 */
