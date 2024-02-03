@@ -186,10 +186,48 @@ color:#fb4934 !important ;
 		background-color : #16181a !important ; 
 	}
 	
-	/*Parts of the bg code  	 */
-	div.flex.items-center{
-  background-color: #16181a !important;
+	div.flex.items-center.justify-between{
+		background-color: #16181a !important  ; 
+	}
+	
+	
+/*Frame of question inside the answer  	 */
+	.pb-lg.border-borderMain\/60.dark\:border-borderMainDark\/80.divide-borderMain\/60.dark\:divide-borderMainDark\/80.ring-borderMain.dark\:ring-borderMainDark.bg-transparent {
+  background-color: #16181a !important ; 
 }
+	
+	
+	
+	
+	
+	
+	
+/* Main response text 	 */
+	.prose {
+  color: #f2e5bc !important; /* sets the color to black for light mode */
+  /* sets the color to white for dark mode */
+}
+	
+	
+	.rounded-md {
+  background-color: #16181a !important; /* Red background */
+  /* White text */
+}
+	
+/*Main text  	 */
+	
+	.break-words {
+ /* Red background */
+  color: #f9f5d7!important; /* White text */
+}
+	
+	
+	
+	
+
+	
+	
+	
 
 	
 /*SIDE BAR STYLES 	 */
@@ -345,13 +383,36 @@ textarea {
 }
 	
 	
+/*Dark elements on teh page  	 */
+	
+	.md\:hover\:bg-offsetPlus {
+
+		background-color : #16181a !important ; 
+}
 	
 	
 	
 	
+/*Reply page copilot button color backgourn 	 */
+.flex.items-center.justify-self-end.bg-background.dark\:bg-offsetDark.rounded-full.space-x-2 {
+  background-color: #1b4d2e;
+}
 	
 	
 	
+
+	
+
+	button.md\:hover\:bg-offsetPlus {
+  background-color: #282828 !important;
+
+}
+	
+	
+	div.rounded-full {
+		background-color : #16181a !important ; 
+    border: solid 0.1px #16181a !important;
+}
 	
 	
 	
