@@ -372,7 +372,6 @@ textarea {
 	
 	
 
-	
 
 	
 /* 	Border around buttons  */
@@ -408,11 +407,54 @@ textarea {
 
 }
 	
-	
+/* Border color is black now 	 */
 	div.rounded-full {
 		background-color : #16181a !important ; 
     border: solid 0.1px #16181a !important;
 }
+	
+	
+/*Chat area copilot button  	 */
+	.h-4.w-4 {
+		background-color: #fb4934 !important ; 
+		
+  height: 1rem;
+  width: 1rem;
+}
+
+	
+/* COplilot button border 	 */
+	div.rounded-full.p-three.border.transition{
+		border : solid  #689d6a !important ;
+		border-width: 1px !important ; 
+		
+
+	}
+
+	button{
+		background-color: #16181a !important ; 
+	}
+	
+	
+	
+/* Citations Text and more main text 	 */
+	
+	div.rounded-full {
+		font-size: 12px !important;
+		font-weight: 800 !important ;
+		color: #ebdbb2 !important ; 
+    background-color: #16181a !important;
+    border: solid 0.1px #17191b !important;
+}
+	
+	
+/*Maon heading of what you searached  	 */
+	div.break-words{
+  /* Your styles here */
+		color : #ebdbb2 !important ; 
+}
+	
+	
 	
 	
 	
