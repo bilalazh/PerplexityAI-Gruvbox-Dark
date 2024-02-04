@@ -202,23 +202,19 @@ color:#fb4934 !important ;
 	
 	
 	
-/* Main response text 	 */
-	.prose {
-  color: #f2e5bc !important; /* sets the color to black for light mode */
-  /* sets the color to white for dark mode */
-}
+
 	
 	
 	.rounded-md {
-  background-color: #16181a !important; /* Red background */
-  /* White text */
+  background-color: #4985c2 !important; /* Red background */
+ 
 }
 	
 /*Main text  	 */
 	
 	.break-words {
  /* Red background */
-  color: #b16286!important; /* White text */
+  color: #d5c4a1 !important; /* White text */
 }
 	
 	
@@ -253,7 +249,7 @@ color:#fb4934 !important ;
 	
 /*Older chats side bear  	 */
 	.line-clamp-1, .line-clamp-2 {
-		color:#fb4934 !important ; 
+		color:#d5c4a1 !important ; 
    
 }
 	
@@ -268,7 +264,7 @@ SIde BAR colors 	 */
 	
 /*Side bar Try Pro  	 */
 	div.inline.default.font-sans.text-sm.font-medium.text-textMain.dark\:text-textMainDark.selection\:bg-superDuper.selection\:text-textMain {
-color :#79740e !important ; 
+color :#f0edd8 !important ; 
 }
 	
 	
@@ -313,7 +309,7 @@ textarea {
 	h2.default{
 		
 		
-		color: #98971a !important ; 
+		color: #83a598 !important ; 
 	}
 	
 	
@@ -350,14 +346,14 @@ textarea {
 /*Seaarch suggestion when you type  	 */
 	div.grow.px-sm.py-sm{
 		
-		background-color : #1b4d2e !important ; 
+		background-color : #16181a !important ; 
 	
 	}
 	
 /*Color of the suggestions  	 */
 /*Youtube color suggestions  */
 .text-textMain {
-   color : #98971a !important ;
+   color : #b8bb26 !important ;
 }
 	
 
@@ -468,19 +464,23 @@ textarea {
 	
 /* Citations Text and more main text 	 */
 	
-	div.rounded-full {
-		font-size: 12px !important;
+
+div.inline-flex.h-\[1rem\]{
+    background-color: #f9f5d7 !important;
+	color: #1b4d2e !important; 
+			font-size: 11px !important;
 		font-weight: 800 !important ;
-		color: #ebdbb2 !important ; 
-    background-color: #16181a !important;
-    border: solid 0.1px #17191b !important;
+	    border: solid 0.1px #b8bb26 !important;
+
 }
 	
+
 	
 /*Maon heading of what you searached  	 */
+/* Answer on the main page	 */
 	div.break-words{
   /* Your styles here */
-		color : #ebdbb2 !important ; 
+		color : #d5c4a1 !important ; 
 }
 	
 	
