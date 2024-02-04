@@ -218,7 +218,7 @@ color:#fb4934 !important ;
 	
 	.break-words {
  /* Red background */
-  color: #f9f5d7!important; /* White text */
+  color: #b16286!important; /* White text */
 }
 	
 	
@@ -253,7 +253,7 @@ color:#fb4934 !important ;
 	
 /*Older chats side bear  	 */
 	.line-clamp-1, .line-clamp-2 {
-		color:#fe8019 !important ; 
+		color:#fb4934 !important ; 
    
 }
 	
@@ -306,6 +306,24 @@ textarea {
 	
 	
 	
+/* ANSWER PAGE 	 */
+	
+/* 	H2 Soures and answers tab  */
+	
+	h2.default{
+		
+		
+		color: #98971a !important ; 
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -339,7 +357,7 @@ textarea {
 /*Color of the suggestions  	 */
 /*Youtube color suggestions  */
 .text-textMain {
-   color : #f2e5bc !important ;
+   color : #98971a !important ;
 }
 	
 
