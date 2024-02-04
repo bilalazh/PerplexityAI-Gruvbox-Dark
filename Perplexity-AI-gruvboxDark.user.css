@@ -222,8 +222,8 @@ color:#fb4934 !important ;
 }
 	
 	
-	
-	
+
+
 
 	
 	
@@ -236,9 +236,9 @@ color:#fb4934 !important ;
 /*Side bar -> Open New thread 	 */
 	div.border{
 		color:#fbf1c7 !important ; 
-		background-color: #1d2021 !important ; 
+		background-color: #16181a !important ; 
 		border: solid  #79740e  !important ; 
-		border-width: 0.11rem !important ; 
+		border-width: 0.1px !important ; 
 	}
 
 /*BORDER hover */
@@ -253,7 +253,7 @@ color:#fb4934 !important ;
 	
 /*Older chats side bear  	 */
 	.line-clamp-1, .line-clamp-2 {
-		color:#b8bb26 !important ; 
+		color:#fe8019 !important ; 
    
 }
 	
@@ -261,12 +261,14 @@ color:#fb4934 !important ;
 suggestions color 
 SIde BAR colors 	 */
 	div.text-align-center.relative{
-		color:#8ec07c !important ; 
+		color:#79740e !important ; 
 	}
 	
 	
+	
+/*Side bar Try Pro  	 */
 	div.inline.default.font-sans.text-sm.font-medium.text-textMain.dark\:text-textMainDark.selection\:bg-superDuper.selection\:text-textMain {
-color :#7c6f64 !important ; 
+color :#79740e !important ; 
 }
 	
 	
@@ -290,25 +292,34 @@ div.text-clip.overflow-hidden.line-clamp-1.light.font-sans.text-sm.font-medium.t
 textarea {
 /*Color is teh text color that appear inside  	 */
 	color: #f2e5bc !important ; 
-    background-color: #1d2021 !important ;
+    background-color: #16181a !important ;
 	
 }
 	
 /*ASK anything place holder inside the input field 	 */
 	textarea::placeholder {
     color: #79740e !important;
+		
 }
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 /*Color for the copilot button bg 	 */
 	div.flex.items-center.justify-self-end.bg-background.dark\:bg-offsetDark.rounded-full.space-x-2.col-start-3.row-start-2.-mr-2 {
-    background-color:#1d2021 !important ; 
+    background-color:#16181a !important ; 
 }
 	
 /*FOcus AND Attach Button backgournd  	 */
 		div.flex.bg-background.dark\:bg-offsetDark.rounded-l-lg.col-start-1.row-start-2.-ml-2 {
 			border-radius: 13rem !important; 
-    background-color: #1d2021;
+    background-color: #16181a;
 }
 	
 	
@@ -320,15 +331,15 @@ textarea {
 
 /*Seaarch suggestion when you type  	 */
 	div.grow.px-sm.py-sm{
-		color : white !important ; 
-		background-color : #16181a !important ; 
+		
+		background-color : #1b4d2e !important ; 
 	
 	}
 	
 /*Color of the suggestions  	 */
-
+/*Youtube color suggestions  */
 .text-textMain {
-   color : #b8bb26 !important ;
+   color : #f2e5bc !important ;
 }
 	
 
@@ -403,7 +414,7 @@ textarea {
 	
 
 	button.md\:hover\:bg-offsetPlus {
-  background-color: #282828 !important;
+  background-color: #16181a !important;
 
 }
 	
