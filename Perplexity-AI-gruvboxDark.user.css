@@ -257,7 +257,7 @@ color:#fb4934 !important ;
 suggestions color 
 SIde BAR colors 	 */
 	div.text-align-center.relative{
-		color:#79740e !important ; 
+		color:#b8bb26 !important ; 
 	}
 	
 	
@@ -294,7 +294,7 @@ textarea {
 	
 /*ASK anything place holder inside the input field 	 */
 	textarea::placeholder {
-    color: #79740e !important;
+    color: #b57614 !important;
 		
 }
 	
@@ -353,7 +353,7 @@ textarea {
 /*Color of the suggestions  	 */
 /*Youtube color suggestions  */
 .text-textMain {
-   color : #b8bb26 !important ;
+   color : #f2e5bc !important ;
 }
 	
 
